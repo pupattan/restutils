@@ -2,10 +2,11 @@ from setuptools import setup
 
 setup(
     name='restutils',
-    version='0.0.2',
+    version='2.0.0',
     packages=['restutils'],
     url='https://github.com/pupattan/restutils',
     license='MIT',
+    install_requires=['ssl'],
     author='pulak pattanayak',
     author_email='pulak.pattanayak@gmail.com',
     description='Provides libraries for REST API applications',
