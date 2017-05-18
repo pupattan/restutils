@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='restutils',
-    version='1.0.2',
+    version='1.0.3',
     packages=['restutils'],
     url='https://github.com/pupattan/restutils',
     license='MIT',
