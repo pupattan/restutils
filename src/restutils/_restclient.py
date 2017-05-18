@@ -73,8 +73,8 @@ class RESTClient(object):
     def post(self, url_path, request_body="", **kwargs):
         return self.send_request(url_path, self.POST, request_body, **kwargs)
 
-    def put(self, url_path, body="", **kwargs):
-        return self.send_request(url_path, self.PUT, body, **kwargs)
+    def put(self, url_path, request_body="", **kwargs):
+        return self.send_request(url_path, self.PUT, request_body, **kwargs)
 
     def delete(self, url_path, **kwargs):
         return self.send_request(url_path, self.DELETE, **kwargs)
