@@ -1,4 +1,4 @@
-Welcome to restutils’s documentation! Client side REST implementation 
+Welcome to restutils’s documentation! Client side REST API implementation 
 ====================================================================
 
 About
