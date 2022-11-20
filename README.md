@@ -1,5 +1,5 @@
-Welcome to restutils’s documentation!
-=====================================
+Welcome to restutils’s documentation! Client side REST implementation 
+====================================================================
 
 About
 -----
